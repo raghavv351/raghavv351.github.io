@@ -31,6 +31,7 @@ h2
 img {
     display: block;
     margin: 0 auto;
+    mix-blend-mode: multiply;
   }
 button{
     background-color: #00539f;
